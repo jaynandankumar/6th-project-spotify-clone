@@ -1,2 +1,2 @@
-# jayy
-this is the first repo
+# 6th project spotify clone
+this is the 6th project completed in alpha intern 
